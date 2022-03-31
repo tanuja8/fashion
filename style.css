@@ -1,0 +1,17 @@
+.col-lg-6{
+    
+      text-align: center;
+}
+.collapse{
+    margin-left: 100px;
+}
+.product_row{
+    margin-left: 150px;
+}
+.collection_row{
+    background-color: rgb(235, 231, 231);
+}
+.icon {
+    display: flex;
+    gap: 30px;
+}
