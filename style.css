@@ -2,6 +2,15 @@
     
       text-align: center;
 }
+.text{
+    letter-spacing: 4px;
+    font-size: 15px;
+    font-weight:bold;
+    color: rgb(94, 92, 92);
+}
+.heading{
+    font-size: 50px;
+}
 .collapse{
     margin-left: 100px;
 }
@@ -9,9 +18,14 @@
     margin-left: 150px;
 }
 .collection_row{
+    margin-top: 80px;
     background-color: rgb(235, 231, 231);
 }
 .icon {
     display: flex;
     gap: 30px;
 }
+.fashion{
+
+    background: url('bg-1.jpg');
+    
