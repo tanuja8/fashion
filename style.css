@@ -1,6 +1,6 @@
-.col-lg-6{
-    
-      text-align: center;
+.col-lg-6{ 
+  text-align: center;
+      
 }
 .text{
     letter-spacing: 4px;
@@ -21,6 +21,9 @@
     margin-top: 80px;
     background-color: rgb(235, 231, 231);
 }
+.star{
+    color: red;
+}
 .icon {
     display: flex;
     gap: 30px;
@@ -28,4 +31,4 @@
 .fashion{
 
     background: url('bg-1.jpg');
-    
+}
